@@ -8,7 +8,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class ReadExcelFile {
 
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\Kacper\\Desktop\\DFMEA dla merit\\sad.xlsx";;
+        String filePath = "C:\\Users\\Kacper\\Desktop\\\\sad.xlsx";;
 
         ArrayList<FailureEffectOb> arrayList = new ArrayList<>();
 
