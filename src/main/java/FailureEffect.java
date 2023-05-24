@@ -30,6 +30,7 @@ class FailureEffectOb {
         return "FailureEffectOb{" +
                 "failureEffectId=" + failureEffectId +
                 ", FailureEffect='" + FailureEffect + '\'' +
+                ", Failure='" + Failure + '\'' +
                 '}';
     }
 }
