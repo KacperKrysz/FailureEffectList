@@ -9,7 +9,7 @@ public class FailureEffectReader {
 
     public void effectReader() {
 
-        String filePath = "C:\\Users\\kacpe\\OneDrive\\Pulpit\\sad.xlsx";;
+        String filePath = "path to xls";;
 
         ArrayList<FailureEffectOb> arrayList = new ArrayList<>();
 
