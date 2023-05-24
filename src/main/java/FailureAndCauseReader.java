@@ -9,7 +9,7 @@ public class FailureAndCauseReader {
 
     public void FCReader() {
 
-        String filePath = "C:\\Users\\kacpe\\OneDrive\\Pulpit\\sad.xlsx";;
+        String filePath = "path to xls";;
 
         ArrayList<FailureAndCauseOb> arrayList = new ArrayList<>();
 
